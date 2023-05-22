@@ -1,0 +1,15 @@
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\bin\Debug\net6.0\task23_DZ.exe
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\bin\Debug\net6.0\task23_DZ.deps.json
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\bin\Debug\net6.0\task23_DZ.runtimeconfig.json
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\bin\Debug\net6.0\task23_DZ.dll
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\bin\Debug\net6.0\task23_DZ.pdb
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.csproj.AssemblyReference.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.AssemblyInfoInputs.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.AssemblyInfo.cs
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.dll
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\refint\task23_DZ.dll
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.pdb
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\task23_DZ.genruntimeconfig.cache
+C:\Users\Zdanewich_AN\Desktop\IT\Modul03\С#\03_DZ\task23_DZ\obj\Debug\net6.0\ref\task23_DZ.dll
